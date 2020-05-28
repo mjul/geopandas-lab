@@ -1,0 +1,19 @@
+name: geopandas-lab
+channel_priority: strict
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.7
+  - requests
+  - pytest
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - geopandas
+  - descartes
+  - contextily
+
+
